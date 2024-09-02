@@ -1,0 +1,1 @@
+__all__=["my_module1"]# 控制from my_package import *时导入的模块
